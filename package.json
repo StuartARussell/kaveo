@@ -1,0 +1,14 @@
+{
+  "name": "kaveo",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Stuart Russell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
